@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generate 5th edition stats", "generate 5th edition stats\generate 5th edition stats.csproj", "{60726C1C-017E-4A1F-A836-05698A45A716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60726C1C-017E-4A1F-A836-05698A45A716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60726C1C-017E-4A1F-A836-05698A45A716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60726C1C-017E-4A1F-A836-05698A45A716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60726C1C-017E-4A1F-A836-05698A45A716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {629C3174-D817-472B-AA6F-9D75F16183CA}
+	EndGlobalSection
+EndGlobal
